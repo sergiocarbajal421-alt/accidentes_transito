@@ -550,3 +550,18 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+st.markdown(
+    """
+        ---
+        <div style="text-align:center; color:gray; font-size:0.9em;">
+            🚦 Sistema Analítico de Accidentes de Tránsito Perú 2020–2021<br>
+            Desarrollado por <b>Sergio Carbajal</b> — © 2025<br>
+            Datos referenciales del INEI.
+        </div>
+        """,
+    unsafe_allow_html=True,
+)
+
