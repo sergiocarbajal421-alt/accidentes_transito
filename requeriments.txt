@@ -1,8 +1,8 @@
-streamlit
-pandas
-plotly
-numpy
-scipy
-folium
-streamlit-folium
-branca
+streamlit>=1.38.0
+pandas>=2.2.0
+plotly>=5.23.0
+numpy>=1.26.0
+scipy>=1.13.0
+folium>=0.17.0
+streamlit-folium>=0.21.0
+branca>=0.7.2
